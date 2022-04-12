@@ -19,5 +19,4 @@ Documentation of the project <br />
 
 # Theory : 
 Credit risk analysis is a type of data analysis undertaken by lenders to quantify the level of default risk of a borrower. Default risk is defined as the probability of the borrower not being able to make scheduled principal and interest payments on time. This probability depends on variables measuring the creditworthiness and the financial condition of the borrower such as income, wealth, spending, savings etc. The model will try to estimate this unobservable probability of default using such observable variables. 
-
-# Dataset : 
+ 
